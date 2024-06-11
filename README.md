@@ -2,9 +2,9 @@
 <h3 align="center">A passionate fullstack developer from SriLanka</h3>
 
 
-- 🌱 I’m currently learning **Next.js, DevOps**
+- 🌱 I’m currently learning **Angular, .Net, DevOps**
 
-- 💬 Ask me about **React.js, Node.js MongoDB,**
+- 💬 Ask me about **React.js, Next.js Node.js MongoDB,**
 
 - 📫 How to reach me **prsthibha@gmail.com**
 
